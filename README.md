@@ -3,7 +3,7 @@ A fast, comprehensive, and memory-efficient enum-based events system I created o
 
 Inside EventSystem/main.cpp are a series of tests to demonstrate the system's capabilities. When the program is run, these are demonstrated.
 
-This system has the ability to:
+### Key Features:
 * Add many listeners for an event
 * Add many events for a listener
 * Remove all listener-event connections for an event
